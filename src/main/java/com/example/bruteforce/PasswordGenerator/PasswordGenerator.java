@@ -18,12 +18,6 @@ public class PasswordGenerator {
     };
 
     public List<String> generatePassword(int limit) {
-        if (limit <= 0) {
-            throw new IllegalArgumentException("Limit must be greater than 0.");
-        }
-        if(limit > 8){
-            throw new IllegalArgumentException("Limit must be less than 8");
-        }
         switch (limit) {
             case 1 -> generateOneLetterPassword();
             case 2 -> generateTwoLetterPassword();
