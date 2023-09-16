@@ -28,6 +28,4 @@ Brute Force is a password guessing application that sends hundreds of http reque
 
 ## App Running
 
-![Screenshot_9](https://github.com/alynaggar/Brute-Force/assets/94795814/43444186-5106-436c-bf29-d6cc0523198f)
-
-
+![Screenshot_10](https://github.com/alynaggar/Brute-Force/assets/94795814/b6a47a87-e4e2-42fc-9fc0-f4b241257f1a)
