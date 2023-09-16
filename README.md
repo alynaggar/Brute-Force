@@ -25,3 +25,9 @@ Brute Force is a password guessing application that sends hundreds of http reque
 1. Create a database called 'http' using the provided schema file 'Brute Force.sql'.
 
 2. Edit the 'application.properties' file located in the app's installation directory. Update the `username` and `password` fields with the appropriate credentials for your MySQL server.
+
+## App Running
+
+![Screenshot_9](https://github.com/alynaggar/Brute-Force/assets/94795814/43444186-5106-436c-bf29-d6cc0523198f)
+
+
